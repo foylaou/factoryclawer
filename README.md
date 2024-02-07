@@ -39,5 +39,3 @@ The downloaded data will be saved to the specified download directory.
 Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
