@@ -1,5 +1,5 @@
 Factory Clawer
-This script is designed to scrape data from the Ministry of Economic Affairs (MOEA) website. It collects data related to factories based on selected industry types and areas.
+This script is designed to scrape data from the Ministry of Economic Affairs (MOEA) website[url:https://dmz26.moea.gov.tw/GMWeb/investigate/InvestigateFactory.aspx]. It collects data related to factories based on selected industry types and areas.
 
 Prerequisites
 Python 3.x
